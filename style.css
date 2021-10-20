@@ -13,7 +13,7 @@ body {
     max-width: 80%;
     margin: 50px auto;
     background-color: aliceblue;
-    padding: 15px 25px;
+    padding: 25px 35px;
     border-radius: 40px;
     box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
 }
